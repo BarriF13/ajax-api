@@ -1,0 +1,17 @@
+[
+  {
+    "id":1,
+    "name":"Cyrus",
+    "email":"cy@hacker.com"
+  },
+  {
+    "id":2,
+    "name":"Anahit",
+    "email":"ana@hacker.com"
+  },
+  {
+    "id":3,
+    "name":"Cyrus",
+    "email":"cy@hacker.com"
+  }
+]
